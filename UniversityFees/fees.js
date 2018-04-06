@@ -1,4 +1,4 @@
-[
+{
 	{
 		"feeType": "Foreign Student Services Fee",
 		"feeSubject": {
@@ -72,4 +72,4 @@
 			}
 		}
 	}
-]
+}
