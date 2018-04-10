@@ -1,7 +1,7 @@
 [
 	{
 		"feeType": "Foreign Student Services Fee",
-		"feeSubject": {
+		"feeSubject": [
 			"Fall": {
 				"feeAmount":"$50"
 			},
@@ -11,11 +11,11 @@
 			"Summer": {
 				"feeAmount":"$25"
 			}
-		}
+		]
 	},
 	{
 		"feeType": "School Fees",
-		"feeSubject": {
+		"feeSubject": [
 			"Student Recreation Fee": {
 				"feeAmount": "$98 (Less than full-time will be pro-rated per credit hour based on academic level)"
 			},
@@ -25,11 +25,11 @@
 			"Apartment Residence Hall Meal Plan": {
 				"feeAmount": "$1,020"
 			}
-		}
+		]
 	},
 	{
 		"feeType": "Course Fees",
-		"feeSubject": {
+		"feeSubject": [
 			"American Sign Language": {
 				"class": ["ASL 205", "ASL 305"],
 				"feeAmount": "$50 per course" 
@@ -42,11 +42,11 @@
 				"class": ["AUDI 614", "AUDI 615", "AUDI 622", "AUDI 624", "AUDI 630", "AUDI 654"],
 				"feeAmount": "$25 per course" 
 			}
-		}
+		]
 	},
 	{
 		"feeType": "Health Fees",
-		"feeSubject": {
+		"feeSubject": [
 			"Health Professional Health Fee": {
 				"feeAmount":"$52.50"
 			},
@@ -56,11 +56,11 @@
 			"Major Medical & PCH Fee": {
 				"feeAmount":"$1,275"
 			}
-		}
+		]
 	},
 	{
 		"feeType": "Other Fees",
-		"feeSubject": {
+		"feeSubject": [
 			"Late Payment Fee": {
 				"feeAmount":"$100"
 			},
@@ -70,6 +70,6 @@
 			"Returned Check Fee": {
 				"feeAmount":"$25"
 			}
-		}
+		]
 	}
 ]
