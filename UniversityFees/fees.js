@@ -1,7 +1,7 @@
 [
 	{
 		"feeType": "Foreign Student Services Fee",
-		"feeSubject":
+		"feeSubject": {
 			"Fall": {
 				"feeAmount":"$50"
 			},
