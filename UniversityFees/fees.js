@@ -41,6 +41,9 @@
 			"Audiology Lab Fee": {
 				"class": ["AUDI 614", "AUDI 615", "AUDI 622", "AUDI 624", "AUDI 630", "AUDI 654"],
 				"feeAmount": "$25 per course" 
+			},
+			"Biology Lab Fee": {
+				"feeAmount": "$15 - $40*"
 			}
 		}
 	},
