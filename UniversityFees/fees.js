@@ -50,7 +50,7 @@
 	{
 		"feeType": "Health Fees",
 		"feeSubject": {
-			"Health Professional Health Fee": {
+			"Professional Health Fee": {
 				"feeAmount":"$52.50"
 			},
 			"Major Medical Health Insurance": {
