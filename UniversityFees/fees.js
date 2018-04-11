@@ -187,7 +187,7 @@
 				"class": ["POL 520", "POL 530"],
 				"feeAmount": "$60 per Course*"
 			},
-			"Studio Art Fee	": {
+			"Studio Art Fee": {
 				"feeAmount": "$25 - $75 per Course*"
 			},
 			"Theater Arts Fee": {
