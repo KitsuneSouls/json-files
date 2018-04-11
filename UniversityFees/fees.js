@@ -28,7 +28,7 @@
 			"UG Belknap Commuter Meal Plan": {
 				"feeAmount": "$250"
 			},
-			"Education and Human Development Teacher Education Fee (TEAD)": {
+			"Teacher Education and Human Development Fee (TEAD)": {
 				"feeAmount": "$62.50"
 			},
 			"Dental Enhancement Fee": {
